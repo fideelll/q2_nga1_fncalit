@@ -1,0 +1,16 @@
+*{margin: 0;}
+
+
+section{
+    
+    display:flex;
+    justify-content: space-between
+
+}
+    
+video{
+    align-items: center;
+    height: 45vh;
+    width: 100vh;
+    border: 3px solid blue;
+}
